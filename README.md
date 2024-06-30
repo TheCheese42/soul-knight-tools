@@ -5,7 +5,7 @@ A collection of tools related to the Soul Knight mobile game by ChillyRoom.
 ## Installation
 
 ```sh
-git clone https://github.com/NotYou404/soul-knight-tools
+git clone https://github.com/TheCheese42/soul-knight-tools
 cd soul-knight-tools
 python -m venv .venv
 source .venv/bin/activate  # Linux
