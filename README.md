@@ -18,7 +18,7 @@ python -m pip install -r requirements.txt
 
 ### sk_weapons.py
 
-Generate a CSV file of all weapons sorted by category with data from the [Soul Knight Fandom Wiki](https://soul-knight.fandom.com/wiki/Soul_Knight_Wiki). Can also generate a CSM file with links to images of the weapons, hosted on said Wiki.
+Generate a CSV file of all weapons sorted by category with data from the [Soul Knight Fandom Wiki](https://soul-knight.fandom.com/wiki/Soul_Knight_Wiki). Can also generate a CSV file with links to images of the weapons, hosted on said Wiki.
 
 ```sh
 python sktools/sk_weapons.py > weapons.csv
